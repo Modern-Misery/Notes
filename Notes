@@ -103,7 +103,7 @@
 # now = datetime.now()
 # print(f'The time is: {now.strftime("%H:%M:%S")}')
 #------------------------------------------------------------------------------------------------------------#
-# if/else
+# if/else.
 # print("Is coding fun?")
 # x = input()
 
