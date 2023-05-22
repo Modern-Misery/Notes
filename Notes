@@ -1,0 +1,36 @@
+# Ask user for their name.
+# name = input("What's your name? ")
+#------------------------------------------------------------------------------------------------------------#
+# Say hello to user.
+# print("hello, " + name)
+# |
+# print("hello,", name)
+# |
+# print("hello, ", end=""
+# print(name)
+# |
+# print("hello,", name, sep=' ')
+# |
+# print(f"hello, {name}")
+#------------------------------------------------------------------------------------------------------------#
+# You can use '' to write "" inside | print('hello, "friend"') | print("hello, \"friend\"") will work as well.
+#------------------------------------------------------------------------------------------------------------#
+# Remove whitespace from str.
+# name = name.strip()
+# name = name.replace(' ', "")
+#------------------------------------------------------------------------------------------------------------#
+# Capitalize user's name.
+# name = name.capitalize()
+#------------------------------------------------------------------------------------------------------------#
+# Capitalize each word.
+# name = name.title()
+#------------------------------------------------------------------------------------------------------------#
+# Remove whitespace from str & capitalize user's name |or| each word |or| all together.
+# name = name.strip().capitalize()
+# |
+# name = name.strip().title()
+# |
+# name = input("What's your name? ").strip().title()
+# |
+# name = input("What's your name? ").replace(' ', "").title()
+#------------------------------------------------------------------------------------------------------------#
