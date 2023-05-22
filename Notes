@@ -73,6 +73,22 @@
 # y = float(input("What's y? "))
 # z = x / y 
 # print(f"{z:.2f}")
+# |
+# def main():
+#     x = int(input("What's x? "))
+#     print("x sqaured is", sqaure(x))
+
+# def sqaure(n):
+#     return n * n
+# main()
+# |
+# def main():
+#     x = int(input("What's x? "))
+#     print("x sqaured is", sqaure(x))
+
+# def sqaure(n):
+#     return pow(n, 2)
+# main()
 #------------------------------------------------------------------------------------------------------------#
 # *1*
 # def main():
